@@ -1,0 +1,12 @@
+{
+  "name": "test-vercel-deploy-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gilsouza/test-vercel-deploy-express.git",
+  "author": "Gilmar Souza <gilmar.souza@descomplica.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "vercel:deploy": "vercel"
+  }
+}
